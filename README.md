@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! 👋 I'm RAFSAN MAHMUD</h1>
-<h3 align="center">A dedicated Computer Science student from Bangladesh with a passion for technology</h3>
+<h3 align="center">A passionate computer science student from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RAAFSAAN0&label=Profile%20views&color=0e75b6&style=flat" alt="RAAFSAAN0" /> </p>
 
