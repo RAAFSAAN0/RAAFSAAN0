@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! 👋 I'm RAFSAN MAHMUD</h1>
-<h3 align="center">A passionate computer science student from Bangladesh</h3>
+<h3 align="center">A dedicated Computer Science student from Bangladesh with a passion for technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RAAFSAAN0&label=Profile%20views&color=0e75b6&style=flat" alt="RAAFSAAN0" /> </p>
 
@@ -12,9 +12,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rafsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafsan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rafsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafsan" height="30" width="40" /></a>
-<a href="https://fb.com/rafsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafsan" height="30" width="40" /></a>
-<a href="https://instagram.com/rafsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafsan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rafsan-mahmud/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafsan" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100010872514885" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafsan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/raafsan_mahmud/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafsan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools I Use:</h3>
