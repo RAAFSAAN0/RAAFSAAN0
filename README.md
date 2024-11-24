@@ -2,7 +2,9 @@
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2c3e50;">
     Hello there! 👋 I'm <span style="color: #3498db;">RAFSAN MAHMUD</span>
   </h1>
-  <h3 style="font-family: 'Arial', sans-serif; color: #34495e;">A dedicated Computer Science student from Bangladesh with a passion for technology</h3>
+  <h3 style="font-family: 'Arial', sans-serif; color: #34495e;">
+    A passionate Computer Science student from Bangladesh exploring the world of technology and innovation.
+  </h3>
 </div>
 
 <div align="center">
@@ -14,16 +16,18 @@
 
 <br />
 
-<div align="center" style="animation: float 3s infinite;">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Animation" width="300" />
+<div align="center">
+  <div style="animation: float 3s ease-in-out infinite;">
+    <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Professional Animation" width="200" />
+  </div>
 </div>
 
 <br />
 
 <div style="margin: 20px; padding: 15px; border: 2px solid #3498db; border-radius: 10px;">
   <ul style="list-style-type: none; font-family: 'Arial', sans-serif; line-height: 1.8;">
-    <li>🔭 Currently diving deep into <strong>Computer Science and Engineering</strong></li>
-    <li>🌱 Exploring the realms of <strong>Machine Learning and OpenCV</strong></li>
+    <li>🔭 Currently learning <strong>Machine Learning, Deep Learning, and Data Science</strong></li>
+    <li>🌱 Building expertise in <strong>Python, OpenCV, and TensorFlow</strong></li>
     <li>📫 Reach me at: <strong>mahmudrafsan0115@gmail.com</strong></li>
   </ul>
 </div>
@@ -35,9 +39,6 @@
   </a>
   <a href="https://www.linkedin.com/in/rafsan-mahmud/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100010872514885" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/raafsan_mahmud/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
@@ -64,13 +65,13 @@
 <style>
   @keyframes float {
     0% {
-      transform: translateY(0px);
+      transform: translateY(0);
     }
     50% {
-      transform: translateY(-10px);
+      transform: translateY(-15px);
     }
     100% {
-      transform: translateY(0px);
+      transform: translateY(0);
     }
   }
 </style>
